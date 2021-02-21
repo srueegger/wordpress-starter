@@ -14,6 +14,7 @@ define( 'FILES_DIR', THEME_URI . '/dist-assets/files' );
 /***************************************
  * Include helpers
  ***************************************/
+include 'inc/bootstrap_navwalker.php';
 //include 'inc/gravityforms.php'; /* Einkommentieren, falls GravityForms verwendet wird */
 
 /***************************************
