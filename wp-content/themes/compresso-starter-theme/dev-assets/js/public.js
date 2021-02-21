@@ -1,6 +1,8 @@
 /* Globale CSS Datei einfügen -> darf nicht gelöscht werden */
 import "jquery";
 import css from '../css/public.scss'; 
+/* Bootstrap JS hinzufügen */
+import 'bootstrap';
 
 /* JavaSscript Aktionen */
 'use strict';
